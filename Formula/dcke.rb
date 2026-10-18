@@ -3,6 +3,7 @@ class Dcke < Formula
   homepage "https://github.com/ericwafula/dcke"
   url "https://github.com/ericwafula/dcke/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "1096d42974bdcc2179f2a860b41ac692ee3b4ef6d6e2a0368539200d2811aa9a"
+  license "MIT"
 
   depends_on "node"
 
