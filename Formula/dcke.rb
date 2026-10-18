@@ -1,8 +1,8 @@
 class Dcke < Formula
   desc "Scaffold and initialize Android, KMP, iOS and Spring Boot projects"
   homepage "https://github.com/ericwafula/dcke"
-  url "https://github.com/ericwafula/dcke/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "1096d42974bdcc2179f2a860b41ac692ee3b4ef6d6e2a0368539200d2811aa9a"
+  url "https://github.com/ericwafula/dcke/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "3adc747991f5b6e63f1f8b4fc950de5eff3eef08aad40c82d402a2fec1fd798f"
   license "MIT"
 
   depends_on "node"
